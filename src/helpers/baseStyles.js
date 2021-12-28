@@ -50,7 +50,7 @@ const styles = {
         : right
         ? 'translate3d(100%, 0, 0)'
         : 'translate3d(-100%, 0, 0)',
-      transition: 'all 0.5s'
+      transition: 'all 0.10s ease 0s'
     };
   },
 
